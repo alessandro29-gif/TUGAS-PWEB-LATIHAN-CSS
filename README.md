@@ -42,6 +42,7 @@ Laptop:
 <img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/427f5ad5-2b09-407b-aaad-47ff44f4bbb7" />
 <img width="1280" height="697" alt="image" src="https://github.com/user-attachments/assets/1743513c-b1c8-4e5f-b674-34c968e856f7" />
 
+
 HP:
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-10-07 at 03 20 32" src="https://github.com/user-attachments/assets/152ebba7-1cbe-4075-bd3e-dce380d21356" />
